@@ -1,2 +1,12 @@
-# generated-project-2025-08-27T18-24-23
-A new repository for a generated project package.
+# Project Divinity Test
+
+This project aims to develop an AI-powered automation solution for pizza ordering, specifically targeted towards businesses.
+
+## Key Features:
+asdfasdf
+
+## Technology Stack:
+asdfasdf
+
+## Target Audience:
+Businesses
